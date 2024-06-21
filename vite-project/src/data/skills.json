@@ -1,0 +1,19 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    }
+
+  ]
