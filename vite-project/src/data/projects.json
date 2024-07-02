@@ -1,19 +1,19 @@
 [
   {
-    "title": "PizzaDronz",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Ping Pong Clone",
+    "imageSrc": "projects/ping_pong.png",
+    "description": "This project is a virtual clone of the Ping Pong game, played between a human player and an AI player.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://angwar-g.github.io/Ping-Pong-Clone/",
+    "source": "https://github.com/angwar-g/Ping-Pong-Clone"
   },
   {
-    "title": "Ping Pong Game",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Analysing Twitter Trends",
+    "imageSrc": "projects/analysing twitter trends.jpg",
+    "description": "A full-stack application that queries the Twitter API for 500 recent tweets and visualises the result as a word cloud.",
+    "skills": ["Python", "HTML", "Javascript"],
+    "demo": "https://devpost.com/software/twitter-api-for-analysing-trends",
+    "source": "https://github.com/JoshNewham1/AdaHack2022"
   },
   {
     "title": "Project C",
