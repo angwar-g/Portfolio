@@ -20,8 +20,8 @@
     "imageSrc": "projects/craviour.png",
     "description": "This project is a food delivery website built using the MERN Stack.",
     "skills": ["React", "MongoDB", "Express", "Node.js"],
-    "demo": "https://github.com/angwar-g/minesweeper_game",
-    "source": "https://github.com/angwar-g/minesweeper_game"
+    "demo": "https://github.com/angwar-g/Craviour",
+    "source": "https://github.com/angwar-g/Craviour"
   },
   {
     "title": "Minesweeper Game",
@@ -36,8 +36,16 @@
     "imageSrc": "projects/kanban.png",
     "description": "This project is a visual workflow management tool that helps individuals visualize and manage tasks.",
     "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://github.com/angwar-g/minesweeper_game",
-    "source": "https://github.com/angwar-g/minesweeper_game"
+    "demo": "https://angwar-g.github.io/Kanban-Board/",
+    "source": "https://github.com/angwar-g/Kanban-Board"
+  }, 
+  {
+    "title": "SustainED",
+    "imageSrc": "projects/sustained.png",
+    "description": "Built at a hackathon, this project aims to promote a more sustainable lifestyle to university students, using a rewards system.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://chutki26.github.io/htbproject/index.html",
+    "source": "https://github.com/chutki26/htbproject"
   }
   
 ]
