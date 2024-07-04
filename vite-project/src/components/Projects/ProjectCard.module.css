@@ -15,6 +15,7 @@
     max-height: 200px; /* Ensures consistent image height */
     object-fit: cover; /* Ensures image fits within the constraints */
     margin-bottom: 26px;
+    border-radius: 10px;
 }
 
 .title {

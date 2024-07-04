@@ -16,11 +16,20 @@
     "source": "https://github.com/JoshNewham1/AdaHack2022"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Craviour",
+    "imageSrc": "projects/craviour.png",
+    "description": "The classic Minesweeper game implemented in Python using the Tkinter library.",
+    "skills": ["React", "MongoDB", "Express", "Node.js"],
+    "demo": "https://github.com/angwar-g/minesweeper_game",
+    "source": "https://github.com/angwar-g/minesweeper_game"
+  },
+  {
+    "title": "Minesweeper Game",
+    "imageSrc": "projects/minesweeper.png",
+    "description": "The classic Minesweeper game implemented in Python using the Tkinter library.",
+    "skills": ["Python"],
+    "demo": "https://github.com/angwar-g/minesweeper_game",
+    "source": "https://github.com/angwar-g/minesweeper_game"
   }
+  
 ]
