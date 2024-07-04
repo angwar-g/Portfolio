@@ -18,7 +18,7 @@
   {
     "title": "Craviour",
     "imageSrc": "projects/craviour.png",
-    "description": "The classic Minesweeper game implemented in Python using the Tkinter library.",
+    "description": "This project is a food delivery website built using the MERN Stack.",
     "skills": ["React", "MongoDB", "Express", "Node.js"],
     "demo": "https://github.com/angwar-g/minesweeper_game",
     "source": "https://github.com/angwar-g/minesweeper_game"
@@ -28,6 +28,14 @@
     "imageSrc": "projects/minesweeper.png",
     "description": "The classic Minesweeper game implemented in Python using the Tkinter library.",
     "skills": ["Python"],
+    "demo": "https://github.com/angwar-g/minesweeper_game",
+    "source": "https://github.com/angwar-g/minesweeper_game"
+  }, 
+  {
+    "title": "Kanban Board",
+    "imageSrc": "projects/kanban.png",
+    "description": "This project is a visual workflow management tool that helps individuals visualize and manage tasks.",
+    "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://github.com/angwar-g/minesweeper_game",
     "source": "https://github.com/angwar-g/minesweeper_game"
   }
