@@ -1,5 +1,21 @@
 [
   {
+    "title": "YouTube Video Summarizer",
+    "imageSrc": "projects/ytvideo.png",
+    "description": "This project makes use of the Google Gemini Model to summarize YouTube videos.",
+    "skills": ["Python", "Generative AI", "LLM"],
+    "demo": "https://ytvideosummarizer-kn4h65lwgtxacxmhuesfh4.streamlit.app/",
+    "source": "https://github.com/angwar-g/YTVideoSummarizer"
+  },
+  {
+    "title": "AI Snake Game",
+    "imageSrc": "projects/snakegame.png",
+    "description": "This project is a Snake game developed using Pygame, where an AI is trained to play the game using Reinforcement Learning with PyTorch.",
+    "skills": ["Python", "PyTorch"],
+    "demo": "https://github.com/angwar-g/SnakeGameAI",
+    "source": "https://github.com/angwar-g/SnakeGameAI"
+  },
+  {
     "title": "Ping Pong Clone",
     "imageSrc": "projects/ping_pong.png",
     "description": "This project is a virtual clone of the Ping Pong game, played between a human player and an AI player.",
