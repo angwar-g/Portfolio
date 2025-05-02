@@ -1,5 +1,13 @@
 [
   {
+    "title": "Decoder-Only Transformers for Cross-Lingual ASR",
+    "imageSrc": "projects/diss.png",
+    "description": "Explores the potential of decoder-only transformers for ASR across languages.",
+    "skills": ["Python", "PyTorch", "Machine Learning"],
+    "demo": "https://github.com/angwar-g/decoder-only-asr/blob/main/report.pdf",
+    "source": "https://github.com/angwar-g/decoder-only-asr"
+  },
+  {
     "title": "YouTube Video Summarizer",
     "imageSrc": "projects/ytvideo.png",
     "description": "This project makes use of the Google Gemini Model to summarize YouTube videos.",
@@ -12,7 +20,6 @@
     "imageSrc": "projects/snakegame.png",
     "description": "This project is a Snake game developed using Pygame, where an AI is trained to play the game using Reinforcement Learning with PyTorch.",
     "skills": ["Python", "PyTorch"],
-    "demo": "https://github.com/angwar-g/SnakeGameAI",
     "source": "https://github.com/angwar-g/SnakeGameAI"
   },
   {
@@ -36,7 +43,6 @@
     "imageSrc": "projects/craviour.png",
     "description": "This project is a food delivery website built using the MERN Stack.",
     "skills": ["React", "MongoDB", "Express", "Node.js"],
-    "demo": "https://github.com/angwar-g/Craviour",
     "source": "https://github.com/angwar-g/Craviour"
   },
   {
@@ -44,7 +50,6 @@
     "imageSrc": "projects/minesweeper.png",
     "description": "The classic Minesweeper game implemented in Python using the Tkinter library.",
     "skills": ["Python"],
-    "demo": "https://github.com/angwar-g/minesweeper_game",
     "source": "https://github.com/angwar-g/minesweeper_game"
   }, 
   {

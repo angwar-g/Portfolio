@@ -4,16 +4,56 @@
       "imageSrc": "skills/python.png"
     },
     {
+      "title": "PyTorch",
+      "imageSrc": "skills/pytorch.png"
+    },
+    {
       "title": "Java",
       "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "C/C++",
+      "imageSrc": "skills/c++.png"
     },
     {
       "title": "React",
       "imageSrc": "skills/react.png"
     },
     {
+      "title": "HTML/CSS",
+      "imageSrc": "skills/htmlcss.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
       "title": "Git",
       "imageSrc": "skills/git.png"
+    }, 
+    {
+      "title": "ROS 2",
+      "imageSrc": "skills/ros 2.png"
+    }, 
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    }, 
+    {
+      "title": "TensforFlow",
+      "imageSrc": "skills/tensorflow.png"
+    },
+    {
+      "title": "Blender",
+      "imageSrc": "skills/blender.png"
+    }, 
+    {
+      "title": "Haskell",
+      "imageSrc": "skills/haskell.png"
     }
 
   ]

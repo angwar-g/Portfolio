@@ -23,7 +23,7 @@
 }
 
 .skills{
-    width: 50%;
+    width: 70%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -51,6 +51,8 @@
 
 .skillImageContainer img{
     width: 75px;
+    height: 75px;
+    object-fit: contain;
 }
 
 .skill p {
