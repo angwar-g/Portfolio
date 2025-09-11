@@ -1,5 +1,19 @@
 [
   {
+    "title": "TAROTART",
+    "imageSrc": "projects/tarotart.png",
+    "description": "A tarot reading chatbot that provides personalized tarot readings and interpretations based on user queries.",
+    "skills": ["Python", "Streamlit"],
+    "source": "https://github.com/angwar-g/llm-fileagent"
+  },
+  {
+    "title": "LLM File Agent",
+    "imageSrc": "projects/llm_fileagent.png",
+    "description": "A local file system assistant powered by an LLM to search, manage, and manipulate files directly from your computer.",
+    "skills": ["Python", "Flask"],
+    "source": "https://github.com/angwar-g/llm-fileagent"
+  },
+  {
     "title": "Decoder-Only Transformers for Cross-Lingual ASR",
     "imageSrc": "projects/diss.png",
     "description": "Explores the potential of decoder-only transformers for ASR across languages.",
@@ -11,7 +25,7 @@
     "title": "YouTube Video Summarizer",
     "imageSrc": "projects/ytvideo.png",
     "description": "This project makes use of the Google Gemini Model to summarize YouTube videos.",
-    "skills": ["Python", "Generative AI", "LLM"],
+    "skills": ["Python", "Streamlit"],
     "demo": "https://ytvideosummarizer-kn4h65lwgtxacxmhuesfh4.streamlit.app/",
     "source": "https://github.com/angwar-g/YTVideoSummarizer"
   },
